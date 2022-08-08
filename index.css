@@ -920,7 +920,8 @@ div.command span {
   .footer-box {
     column-gap: 40px;
   }
-  .slack {
+
+  .sponsor :nth-child(5) {
     display: none;
   }
 }
