@@ -924,6 +924,10 @@ div.command span {
   .sponsor :nth-child(5) {
     display: none;
   }
+  .sponsor {
+    display: flex;
+    align-items: center;
+  }
 }
 
 @media all and (max-width: 571px) {
