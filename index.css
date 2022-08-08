@@ -506,7 +506,7 @@ div.command span {
 .footer-box {
   display: flex;
   column-gap: 150px;
-  padding-top: 80px;
+  padding-top: 40px;
   justify-content: center;
 }
 
@@ -1058,6 +1058,9 @@ div.command span {
   }
   .sponsor_img__all-1 {
     display: none;
+  }
+  .section-7__block__text__img {
+    column-gap: 10ox;
   }
 }
 @media all and (max-width: 375px) {
